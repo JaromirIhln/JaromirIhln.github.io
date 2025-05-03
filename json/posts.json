@@ -2,17 +2,17 @@
     "posts": [
         {
         "title": "Co zde najdeš",
-        "content": "Vlastně skoro nic &#128512;, ale nezoufej teprve se to tu rozjíždí.",
+        "content": "Vlastně skoro nic &#128512;, ale nezoufej teprve se to tu rozjíždí. Jedná se malý projekt, kterým se snažím o to, aby byl co nejvíce uživatelsky přívětivý což je také podstatou samotného webu. Všechny příspěvky jsou psány v češtině a snažím se je psát tak, aby byly srozumitelné i pro lidi, kteří nemají s programováním žádné zkušenosti.",
          "link": "first_link"
         },
         {
         "title": "Ukázky",
-        "content": "This is the content of the second post.",
+        "content": "Ukázky mé cesty programováním a tvorby webového absahu. Je zde vydět tučným písmem ASP.NET Core MVC, což je framework, který jsem si, ale nevybral pro tento projekt. Ač je to velmi silný nástroj pro tvorbu webových aplikací a já se snažím ho využít naplno, nasazení jen testuji krátkodobě na Azure jen v rámci 'FreeTier'.",
          "link": "first_link"
         },
         {
         "title": "Zábava",
-        "content": "This is the content of the third post.",
+        "content": "Zábava jako taková se spíše skládá z jednoduché stránky (v podobném stylu) na testy znalostí programovacých jazyků a psaní všemi deseti.",
         "link": "first_link"
         }
       
