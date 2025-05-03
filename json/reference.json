@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+        "title": "Reference a doporučení",
+        "content": "Jmenuji se Jaromí Ihln a jsem zapálený devloper v c#. Jsme na začátku cesty, ale už mám nějaké zkušenosti s vývojem aplikací v C# ASP.NET (MVC, Blazor, Razor...).",
+        "link": "first_link"
+        },
+        {
+        "title": "Reference a doporučení - ukázky",
+        "content": "This is the content of the second post on About page &#128512;.Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...)."
+       
+        },
+        {
+        "title": "Nějaký další obsah pro zábavu.",
+        "content": "This is the content of the third post on Reference page &#128512;."
+        }
+    ]
+}

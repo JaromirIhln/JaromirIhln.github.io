@@ -1,0 +1,138 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar-container {
+    background-color: #333;
+    color: white;
+    display: block;
+    width: 100%;
+    height: 110px;
+    top: 0px;
+    text-align: center;
+    transition: top 0.3s;
+}
+
+.side-bar {
+    background-color: #171717;
+    color: white;
+    width: 0px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.3s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  
+}
+
+.side-bar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+.side-bar a:hover {
+    color: #f1f1f1;
+    cursor: pointer;
+}
+
+.side-bar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.side-bar .closebtn:hover {
+    color: #f1f1f1;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    margin-top: 10px;
+}
+.w-resize {cursor: w-resize;}
+.pointer {
+    cursor: pointer;
+}
+.menu-text {
+    font-size: 36px;
+    cursor: pointer;
+    text-align: center;
+}
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/media/wide_home.webp");
+    height: 25%;
+    margin-top: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    color: white;
+}
+
+.hero-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 2px 6px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.hero-text button:hover {
+    background-color: #555;
+    color: white;
+}
+
+.a-in-btn {
+    text-decoration: none;
+    color: black;
+}
+.markdown {
+    font-size: 20px;
+    padding: 2px;
+    border: 1px solid #3f3e3e;
+    margin: 6px;
+    color: #01473a;
+    background-color: #bdbdbd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (max-height: 450px) {
+    .side-bar {
+        padding-top: 15px;
+    }
+
+    .side-bar a {
+        font-size: 18px;
+    }
+    .hero-text {
+        font-size: 16px;
+    }
+  
+}

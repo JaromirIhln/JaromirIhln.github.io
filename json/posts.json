@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+        "title": "Co zde najdeš",
+        "content": "Vlastně skoro nic &#128512;, ale nezoufej teprve se to tu rozjíždí.",
+         "link": "first_link"
+        },
+        {
+        "title": "Ukázky",
+        "content": "This is the content of the second post.",
+         "link": "first_link"
+        },
+        {
+        "title": "Zábava",
+        "content": "This is the content of the third post.",
+        "link": "first_link"
+        }
+      
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+        "title": "Kdo jsem",
+        "content": "Jmenuji se Jaromí Ihln a jsem zapálený devloper v c#."
+        },
+        {
+        "title": "Co dělám?",
+        "content": "Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...)."
+        },
+        {
+        "title": "Nějaké ukázky pro zábavu.",
+        "content": "This is the content of the third post on About page &#128512;."
+        }
+    ]
+}
