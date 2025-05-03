@@ -2,15 +2,15 @@
     "posts": [
         {
         "title": "Kdo jsem",
-        "content": "Jmenuji se Jaromí Ihln a jsem zapálený devloper v c#."
+        "content": "Jmenuji se Jaromí Ihln a jsem zapálený devloper v C#. Mezi mé další jazyky a frameworky patří HTML, CSS, JavaScript, T-SQL, MSSQL, React, NodeJS a trochu také TypeScript, Python, PHP. V současné době se věnuji vývoji webových aplikací v ASP.NET Core MVC a Blazor. Mám také zkušenosti s databázemi jako je MS SQL Server, SQL-lite MongoDB a PostgreSQL."
         },
         {
         "title": "Co dělám?",
-        "content": "Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...)."
+        "content": "Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...). V současné době se snažím rozvíjet své dovednosti v oblasti webového vývoje a databázových systémů studiem 'PRO full stack' kurzu na ITnetwork.cz. Mým cílem je stát se odborníkem v oblasti vývoje webových aplikací a přispět k inovacím v této oblasti."
         },
         {
         "title": "Nějaké ukázky pro zábavu.",
-        "content": "This is the content of the third post on About page &#128512;."
+        "content": "Ukázky mé práce naleznete (odkazy) na stránce s referencemi &#128512;."
         }
     ]
 }
