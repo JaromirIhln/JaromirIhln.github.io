@@ -55,7 +55,7 @@ function loadPosts(filePath) {
                 titleElement[i][0].classList.add("text-center", "text-bg-dark");
                 allPost[i][0].classList.add("text-center", "text-bg-light");
                 titleElement[i][0].innerHTML = titles[i];
-                allPost[i][0].innerHTML = postContent[i] + " - &#128516;";
+                allPost[i][0].innerHTML = postContent[i] + " - &#129299;";
 
                 //  postsContainer.innerHTML += `${titleElement[i][0].innerHTML = ""}` + "solved &#129300;!&#128512;";
                 if (filePath == referencePath) {

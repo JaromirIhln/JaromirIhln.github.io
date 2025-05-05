@@ -2,17 +2,17 @@
     "posts": [
         {
         "title": "Reference a certifikace",
-        "content": "Jsem na půl cesty, ale už mám nějaké zkušenosti s vývojem aplikací v C# ASP.NET (MVC, Blazor, Razor...), NodeJS, React, JavaScript, HTML, CSS, Bootstrap.",
-        "link": "first_link"
+        "content": "Jsem na půl cesty, ale už mám nějaké zkušenosti s vývojem aplikací v C# ASP.NET (MVC, Blazor, Razor...), NodeJS, React, JavaScript, HTML, CSS, Bootstrap. Z těchto jazyků mám certifikace, které jsou k nahlédnutí na <a href='https://www.linkedin.com/in/jaromir-ihln-70129b59/'> Certifikáty <span class='fa fa-certificate'></span></a> . V současné době rozšiřuji své dovednosti v oblasti webového vývoje studiem 'PRO full stack' kurzu na ITnetwork.cz."
         },
         {
         "title": "Reference a doporučení - ukázky",
-        "content": "Některé ukázky mé práce jsou dostupné na Git jako public &#128512;.Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...)."
-       
+        "content": "Některé ukázky mé práce jsou dostupné na Git jako public <span class='fa fa-github'></span> &#128512;.Věnuji se vývoji aplikací v C# ASP.NET (MVC, Blazor, Razor...). V již zmíněném kurzu se snažím rozvíjet své dovednosti v oblasti webového vývoje, práce a vývoj API a databázových systémů."
+        },
+        {
         },
         {
         "title": "Nějaký další obsah pro zábavu.",
-        "content": "This is the content of the third post on Reference page &#128512;."
-        }
+        "content": "Testy:<a href='https://mypage.jaraweb.cz/learn/index.html'>Testy <span class='fa fa-book'> </span></a> &#128512;. \n Psaní všemi deseti:<a href='https://mypage.jaraweb.cz/learn/all_then.html'>Psaní všemi deseti <span class='fa fa-keyboard-o'></span></a> &#128512;. &#128512;. Všechny odkazy směřují na můj web(subdomény)."
+        }    
     ]
 }
